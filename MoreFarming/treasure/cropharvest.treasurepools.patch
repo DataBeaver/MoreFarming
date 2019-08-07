@@ -18,9 +18,6 @@
     "op" : "add",
     "path" : "/artichokeMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "artichokeMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "artichokeMFM"},
           {"weight" : 0.01, "item" : "artichokeMFMseed"},
@@ -38,9 +35,6 @@
     "op" : "add",
     "path" : "/asparagusMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "asparagusMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "asparagusMFM"},
           {"weight" : 0.01, "item" : "asparagusMFMseed"},
@@ -73,9 +67,6 @@
     "op" : "add",
     "path" : "/bambooMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "bambooMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "bamboostalkMFM"},
           {"weight" : 0.01, "item" : "bambooMFMseed"},
@@ -131,9 +122,6 @@
     "op" : "add",
     "path" : "/blackberryMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "blackberryMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "blackberryMFM"},
           {"weight" : 0.01, "item" : "blackberryMFMseed"},
@@ -151,9 +139,6 @@
     "op" : "add",
     "path" : "/blackpepperMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "blackpepperMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "blackpeppercornMFM"},
           {"weight" : 0.01, "item" : "blackpepperMFMseed"},
@@ -170,9 +155,6 @@
     "op" : "add",
     "path" : "/blueberryMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "blueberryMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "blueberryMFM"},
           {"weight" : 0.01, "item" : "blueberryMFMseed"},
@@ -275,9 +257,6 @@
     "op" : "add",
     "path" : "/cinnamonMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "cinnamonMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "cinnamonMFM"},
           {"weight" : 0.01, "item" : "cinnamonMFMseed"},
@@ -315,9 +294,6 @@
     "op" : "add",
     "path" : "/cocoaMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "cocoaMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "cocoa"},
           {"weight" : 0.01, "item" : "cocoaMFMseed"},
@@ -402,9 +378,6 @@
     "op" : "add",
     "path" : "/dungrootMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "dungrootMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.6, "item" : "dungrootMFM"},
           {"weight" : 0.2, "item" : "poop"},
@@ -422,9 +395,6 @@
     "op" : "add",
     "path" : "/eggplantMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "eggplantMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "eggplantMFM"},
           {"weight" : 0.01, "item" : "eggplantMFMseed"},
@@ -441,9 +411,6 @@
     "op": "add",
     "path": "/finkelMFMHarvest",
     "value": [ [0, {
-        "fill" : [
-          {"item" : "finkelMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.6, "item" : "finkelMFM"},
           {"weight" : 0.2, "item" : "finkelMFMseed"},
@@ -461,9 +428,6 @@
     "path": "/flyTrapMFMHarvest",
     "value": [
       [0, {
-        "fill" : [
-          {"item" : "flytrapMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "flytrapMFMmeat"},
           {"weight" : 0.3, "item" : "flytrapMFMseed"},
@@ -480,9 +444,6 @@
     "op" : "add",
     "path" : "/garlicMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "garlicMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "garlicMFM"},
           {"weight" : 0.01, "item" : "garlicMFMseed"},
@@ -500,9 +461,6 @@
     "op": "add",
     "path": "/garpberryMFMHarvest",
     "value": [ [0, {
-        "fill" : [
-          {"item" : "garpberryMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.6, "item" : "garpberryMFM"},
           {"weight" : 0.2, "item" : "garpberryMFMseed"},
@@ -519,9 +477,6 @@
     "op" : "add",
     "path" : "/gingerMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "gingerMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "gingerMFM"},
           {"weight" : 0.01, "item" : "gingerMFMseed"},
@@ -554,9 +509,6 @@
     "op": "add",
     "path": "/greatbambooMFMHarvest",
     "value": [ [0, {
-        "fill": [
-          {"item" : "greatbambooMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.5, "item" : "bambooBMBshoot"},
           {"weight" : 0.5, "item" : "bamboostalkMFM"},
@@ -609,9 +561,6 @@
     "op" : "add",
     "path" : "/greenbellpepperMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "bellpepperMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "greenbellpepperMFM"},
           {"weight" : 0.01, "item" : "bellpepperMFMseed"},
@@ -649,9 +598,6 @@
     "op" : "add",
     "path" : "/jalapenopepperMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "jalapenopepperMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "jalapenopepperMFM"},
           {"weight" : 0.01, "item" : "jalapenopepperMFMseed"},
@@ -804,9 +750,6 @@
     "op" : "add",
     "path" : "/okraMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "okraMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "okraMFM"},
           {"weight" : 0.01, "item" : "okraMFMseed"},
@@ -824,9 +767,6 @@
     "op" : "add",
     "path" : "/onionMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "onionMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "onionMFM"},
           {"weight" : 0.01, "item" : "onionMFMseed"},
@@ -859,9 +799,6 @@
     "op" : "add",
     "path" : "/orangebellpepperMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "bellpepperMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "orangebellpepperMFM"},
           {"weight" : 0.01, "item" : "bellpepperMFMseed"},
@@ -879,9 +816,6 @@
     "op": "add",
     "path": "/palsterstickMFMHarvest",
     "value": [ [0, {
-        "fill" : [
-          {"item" : "palsterstickMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.8, "item" : "palsterstickMFM"},
           {"weight" : 0.2, "item" : "palsterstickMFMseed"}
@@ -975,9 +909,6 @@
     "op" : "add",
     "path" : "/portobelloMFMHarvest",
     "value" : [ [0, {
-        "fill": [
-          {"item" : "portobelloMFMseed"}
-        ], 
         "pool" : [
           {"weight" : 0.6, "item" : "portobellomushroomMFM"},
           {"weight" : 0.2, "item" : "portobelloMFMseed"}
@@ -993,9 +924,6 @@
     "op": "add",
     "path": "/pricklypearMFMHarvest",
     "value": [ [0, {
-        "fill" : [
-          {"item" : "pricklypearMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "pricklypearMFM"},
           {"weight" : 0.3, "item" : "pricklypearMFMseed"},
@@ -1014,8 +942,7 @@
     "path" : "/pumpkinMFMHarvest",
     "value" : [ [0, {
         "fill" : [
-          {"item" : "pumpkinfullMFM"},
-          {"item" : "pumpkinMFMseed"}
+          {"item" : "pumpkinfullMFM"}
         ],
         "pool" : [
           {"weight" : 0.93, "item" : "plantfibre"},
@@ -1033,9 +960,6 @@
     "op" : "add",
     "path" : "/pumpkinfullMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "pumpkinMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.93, "item" : "choppedpumpkinMFM"},
           {"weight" : 0.07, "item" : "pumpkinMFMseed"}
@@ -1071,9 +995,6 @@
     "op" : "add",
     "path" : "/raspberryMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "raspberryMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "raspberryMFM"},
           {"weight" : 0.01, "item" : "raspberryMFMseed"},
@@ -1091,9 +1012,6 @@
     "op": "add",
     "path": "/rattanMFMHarvest",
     "value": [ [0, {
-        "fill" : [
-          {"item" : "rattanMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.5, "item" : "rattanfiberMFM"},
           {"weight" : 0.4, "item" : "rattannutMFM"},
@@ -1111,9 +1029,6 @@
     "op" : "add",
     "path" : "/reedMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "reedMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "reed"},
           {"weight" : 0.01, "item" : "reedMFMseed"},
@@ -1131,9 +1046,6 @@
     "op" : "add",
     "path" : "/redbellpepperMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "bellpepperMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "redbellpepperMFM"},
           {"weight" : 0.01, "item" : "bellpepperMFMseed"},
@@ -1151,9 +1063,6 @@
     "op" : "add",
     "path" : "/rosemaryMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "rosemaryMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.60, "item" : "rosemaryflowerpetalMFM"},
           {"weight" : 0.30, "item" : "rosemaryleafMFM"},
@@ -1231,9 +1140,6 @@
     "op" : "add",
     "path" : "/scallionMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "scallionMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "scallionMFM"},
           {"weight" : 0.01, "item" : "scallionMFMseed"},
@@ -1307,9 +1213,6 @@
     "op" : "add",
     "path" : "/strawberryMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "strawberryMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "strawberryMFM"},
           {"weight" : 0.01, "item" : "strawberryMFMseed"},
@@ -1404,9 +1307,6 @@
     "op" : "add",
     "path" : "/thymeMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "thymeMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "thymebundleMFM"},
           {"weight" : 0.01, "item" : "thymeMFMseed"},
@@ -1442,9 +1342,6 @@
     "op" : "add",
     "path" : "/vanillabeanMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "vanillabeanMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "vanillaMFM"},
           {"weight" : 0.01, "item" : "vanillabeanMFMseed"},
@@ -1478,9 +1375,6 @@
     "op" : "add",
     "path" : "/yeastMFMHarvest",
     "value" : [ [0, {
-        "fill": [
-          {"item" : "yeastMFMseed"}
-        ], 
         "pool" : [
           {"weight" : 0.89, "item" : "yeastMFM"},
           {"weight" : 0.1, "item" : "yeastMFMseed"}
@@ -1497,9 +1391,6 @@
     "op" : "add",
     "path" : "/yellowbellpepperMFMHarvest",
     "value" : [ [0, {
-        "fill" : [
-          {"item" : "bellpepperMFMseed"}
-        ],
         "pool" : [
           {"weight" : 0.89, "item" : "yellowbellpepperMFM"},
           {"weight" : 0.01, "item" : "bellpepperMFMseed"},
