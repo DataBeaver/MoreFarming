@@ -1,32 +1,23 @@
 [
   [
     {
-      "op" : "test",
-      "path" : "/stages/3/resetToStage",
-      "value" : 2
-    },
-    {
-      "op" : "remove",
-      "path" : "/stages/3/resetToStage"
-    }
-  ],
-  [
-    {
-      "op" : "test",
-      "path" : "/breakDropOptions",
-      "inverse" : true
-    },
-    {
-      "op" : "add",
-      "path" : "/breakDropOptions",
-      "value" : [ ]
+      "op" : "replace",
+      "path" : "/stages/0/duration",
+      "value" : [ 720, 720 ]
     }
   ],
   [
     {
       "op" : "replace",
-      "path" : "/breakDropOptions",
-      "value" : [[[ "cocoaMFMseed", 1, { } ]]]
+      "path" : "/stages/1/duration",
+      "value" : [ 720, 720 ]
+    }
+  ],
+  [
+    {
+      "op" : "replace",
+      "path" : "/stages/2/duration",
+      "value" : [ 2040, 2040 ]
     }
   ]
 ]
