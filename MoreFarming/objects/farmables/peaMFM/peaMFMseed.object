@@ -34,8 +34,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "peaMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "peaMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25

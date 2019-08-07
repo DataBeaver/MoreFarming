@@ -33,8 +33,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "sesameMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "sesameMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25,

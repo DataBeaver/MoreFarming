@@ -33,8 +33,7 @@
     { "duration" : [ 1680, 1680 ] },
     {
       "alts" : 5,
-      "harvestPool" : "oatsMFMHarvest",
-      "resetToStage" : 1
+      "harvestPool" : "oatsMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25,

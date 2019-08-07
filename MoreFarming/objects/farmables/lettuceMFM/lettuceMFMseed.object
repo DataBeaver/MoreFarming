@@ -34,8 +34,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "lettuceMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "lettuceMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25

@@ -34,8 +34,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "brusselsproutMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "brusselsproutMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25,

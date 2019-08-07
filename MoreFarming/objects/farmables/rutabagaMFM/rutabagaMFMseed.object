@@ -34,8 +34,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "rutabagaMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "rutabagaMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25

@@ -33,8 +33,7 @@
     { "duration" : [ 2040, 2040 ] },
     {
       "alts" : 5,
-      "harvestPool" : "sweetpotatoMFMHarvest",
-      "resetToStage" : 1
+      "harvestPool" : "sweetpotatoMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25,

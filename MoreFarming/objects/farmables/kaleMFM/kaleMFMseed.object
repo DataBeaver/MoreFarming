@@ -34,8 +34,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "kaleMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "kaleMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25

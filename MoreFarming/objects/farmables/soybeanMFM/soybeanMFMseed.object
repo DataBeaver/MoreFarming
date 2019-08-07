@@ -36,8 +36,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "soybeanMFMHarvest",
-      "resetToStage" : 1
+      "harvestPool" : "soybeanMFMHarvest"
     }
   ],
   "maxImmersion" : 0.4

@@ -30,8 +30,7 @@
     { "duration" : [1230, 1230] },
     {
       "alts" : 5,
-      "harvestPool" : "watermelonMFMHarvest",
-      "resetToStage" : 1
+      "harvestPool" : "watermelonMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25,

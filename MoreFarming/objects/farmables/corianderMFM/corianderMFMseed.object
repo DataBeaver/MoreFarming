@@ -34,8 +34,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "corianderMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "corianderMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25

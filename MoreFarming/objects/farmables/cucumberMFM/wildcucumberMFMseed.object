@@ -35,8 +35,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "cucumberMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "cucumberMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25,

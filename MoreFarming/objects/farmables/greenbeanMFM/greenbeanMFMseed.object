@@ -37,8 +37,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "greenbeanMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "greenbeanMFMHarvest"
     }
   ],
   "maxImmersion" : 0.2

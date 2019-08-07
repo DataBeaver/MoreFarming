@@ -34,8 +34,7 @@
     },
     {
       "alts" : 5,
-      "harvestPool" : "celeryMFMHarvest",
-      "resetToStage" : 2
+      "harvestPool" : "celeryMFMHarvest"
     }
   ],
   "maxImmersion" : 0.25,
