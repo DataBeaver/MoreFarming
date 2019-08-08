@@ -7,7 +7,7 @@
   "objectType" : "farmable",
   "tooltipKind" : "seed",
   "printable" : false,
-  "description" : "Seeds for cucumbers!\nFirst Harvest: 26 mins\nRe-Harvest: 16 min",
+  "description" : "Seeds for cucumbers!\nFirst Harvest: 26 mins\nRe-Harvest: None",
   "shortdescription" : "Cucumber Seeds",
   "floranDescription" : "Ssseedsss for cucumbersss!",
   "glitchDescription" : "Identify. Cucumber seeds.",

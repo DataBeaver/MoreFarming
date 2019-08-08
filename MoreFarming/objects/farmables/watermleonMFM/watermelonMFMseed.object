@@ -7,7 +7,7 @@
   "objectType" : "farmable",
   "tooltipKind" : "seed",
   "printable" : false,
-  "description" : "Bright green oblong melons.\nFirst Harvest: 41 mins\nRe-Harvest: 21 mins",
+  "description" : "Bright green oblong melons.\nFirst Harvest: 41 mins\nRe-Harvest: None",
   "shortdescription" : "Watermelon Seed",
   "floranDescription" : "Floran sssmash melon to make sssquelch sounds. Also to nom.",
   "glitchDescription" : "Analysis. Tough on the outside, wet on the inside.",

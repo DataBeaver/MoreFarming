@@ -7,7 +7,7 @@
   "objectType" : "farmable",
   "tooltipKind" : "seed",
   "printable" : false,
-  "description" : "A tough tree-like vegetable.\nFirst Harvest: 42 mins\nRe-Harvest: 26 mins",
+  "description" : "A tough tree-like vegetable.\nFirst Harvest: 42 mins\nRe-Harvest: None",
   "shortdescription" : "Celery Seeds",
   "floranDescription" : "Ssseedsss for celery!",
   "glitchDescription" : "Identify. Celery seeds.",

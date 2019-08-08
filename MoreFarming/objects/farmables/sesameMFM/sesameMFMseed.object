@@ -7,7 +7,7 @@
   "objectType" : "farmable",
   "tooltipKind" : "seed",
   "printable" : false,
-  "description" : "Produces many seeds.\nFirst Harvest: 39 mins\nRe-Harvest: 24 mins",
+  "description" : "Produces many seeds.\nFirst Harvest: 39 mins\nRe-Harvest: None",
   "shortdescription" : "Sesame Seeds",
   "floranDescription" : "Sesssame seedsss!",
   "glitchDescription" : "Identify. Sesame seeds.",

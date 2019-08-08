@@ -7,7 +7,7 @@
   "objectType" : "farmable",
   "tooltipKind" : "seed",
   "printable" : false,
-  "description" : "A very nice looking flower.\nFirst Harvest: 13 mins\nRe-Harvest: 8 mins",
+  "description" : "A very nice looking flower.\nFirst Harvest: 13 mins\nRe-Harvest: None",
   "shortdescription" : "Sunflower Seeds",
   "inventoryIcon" : "sunflowerMFMseedicon.png",
   "largeImage" : "sunflowerMFMseed.png:default.default.default",
