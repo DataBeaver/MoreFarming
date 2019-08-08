@@ -33,7 +33,8 @@
     { "duration" : [ 1920, 1920 ] },
     {
       "alts" : 5,
-      "harvestPool" : "finkelMFMHarvest"
+      "harvestPool" : "finkelMFMHarvest",
+      "resetToStage" : 1
     }
   ],
   "maxImmersion" : 0.8,
