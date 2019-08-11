@@ -890,8 +890,8 @@
     "path" : "/portobelloMFMHarvest",
     "value" : [ [0, {
         "pool" : [
-          {"weight" : 0.6, "item" : "portobellomushroomMFM"},
-          {"weight" : 0.2, "item" : "portobelloMFMseed"}
+          {"weight" : 0.99, "item" : "portobellomushroomMFM"},
+          {"weight" : 0.01, "item" : "portobelloMFMseed"}
         ],
         "poolRounds" : [
           [0.7, 2],
