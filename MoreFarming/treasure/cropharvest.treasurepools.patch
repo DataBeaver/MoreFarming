@@ -306,6 +306,9 @@
     "op" : "add",
     "path" : "/corianderMFMHarvest",
     "value" : [ [0, {
+        "fill" : [
+          {"item" : "corianderMFMseed"}
+        ],
         "pool" : [
           {"weight" : 0.89, "item" : "corianderMFM"},
           {"weight" : 0.01, "item" : "corianderMFMseed"},
